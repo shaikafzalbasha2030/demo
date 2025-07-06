@@ -1,0 +1,680 @@
+<!-- header.html -->
+<link rel="stylesheet" href="style.css"
+<header class="site-header">
+  <div class="container">
+    <div class="logo">SAB Learning</div>
+    <nav class="nav">
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Courses</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Contact</a></li>
+        <li><a href="#" class="btn">Sign Up</a></li>
+      </ul>
+    </nav>
+  </div>
+  <!-- hero.html -->
+<marquee direction="left">Hi User this text line to continuously move from left to right corner</marquee>
+<section class="hero">
+  <div class="hero-content">
+    <h1>Empower Your Future with SAB Learning</h1>
+    <p>Learn from top instructors. Anytime, anywhere. Start your journey today.</p>
+    <div class="hero-buttons">
+      <a href="#" class="btn-primary">Get Started</a>
+      <a href="#" class="btn-secondary">Watch Demo</a>
+    </div>
+  </div>
+</section>
+<!-- features.html -->
+<section class="features-section">
+  <div class="container">
+    <h2 class="section-title">Why Choose SAB Learning?</h2>
+    <div class="features-grid">
+      <div class="feature-item">
+        <span class="icon">📚</span>
+        <h3>Expert Courses</h3>
+        <p>Access 100+ courses taught by industry professionals.</p>
+      </div>
+      <div class="feature-item">
+        <span class="icon">🌐</span>
+        <h3>Learn Anytime</h3>
+        <p>Study at your own pace, wherever you are in the world.</p>
+      </div>
+      <div class="feature-item">
+        <span class="icon">🎓</span>
+        <h3>Certification</h3>
+        <p>Receive recognized certificates upon course completion.</p>
+      </div>
+      <div class="feature-item">
+        <span class="icon">💡</span>
+        <h3>Interactive Learning</h3>
+        <p>Engage with quizzes, live sessions, and assignments.</p>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- how-it-works.html -->
+<section class="how-it-works">
+  <div class="container">
+    <h2 class="section-title">How It Works</h2>
+    <div class="steps">
+      <div class="step">
+        <div class="icon">📝</div>
+        <h3>Sign Up</h3>
+        <p>Create your free account in just a few clicks.</p>
+      </div>
+      <div class="step">
+        <div class="icon">🎯</div>
+        <h3>Choose a Course</h3>
+        <p>Browse our catalog and pick the course that fits your goals.</p>
+      </div>
+      <div class="step">
+        <div class="icon">💻</div>
+        <h3>Start Learning</h3>
+        <p>Watch videos, complete quizzes, and participate in discussions.</p>
+      </div>
+      <div class="step">
+        <div
+<!-- popular-courses.html -->
+<section class="popular-courses">
+  <div class="container">
+    <h2 class="section-title">Popular Courses</h2>
+    <div class="courses-grid">
+      <div class="course-card">
+        <img src="course1.jpg" alt="Course 1" />
+        <h3>Web Development Bootcamp</h3>
+        <p>Instructor: John Doe</p>
+        <span class="badge">⭐ 4.8</span>
+        <a href="#" class="btn-enroll">Enroll Now</a>
+      </div>
+      <div class="course-card">
+        <img src="course2.jpg" alt="Course 2" />
+        <h3>Mastering Python</h3>
+        <p>Instructor: Jane Smith</p>
+        <span class="badge">⭐ 4.7</span>
+        <a href="#" class="btn-enroll">Enroll Now</a>
+      </div>
+      <div class="course-card">
+        <img src="course3.jpg" alt="Course 3" />
+        <h3>UI/UX Design Essentials</h3>
+        <p>Instructor: Alice Brown</p>
+        <span class="badge">⭐ 4.9</span>
+        <a href="#" class="btn-enroll">Enroll Now</a>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- testimonials.html -->
+<section class="testimonials">
+  <div class="container">
+    <h2 class="section-title">What Our Learners Say</h2>
+    <div class="testimonial-grid">
+      <div class="testimonial-card">
+        <p>"SAB Learning helped me land my first job in tech. The courses are practical and easy to follow!"</p>
+        <h4>— Ayesha K., Web Developer</h4>
+      </div>
+      <div class="testimonial-card">
+        <p>"The instructors are amazing and the content is top-notch. I upskilled in just 3 months."</p>
+        <h4>— Rahul M., Data Analyst</h4>
+      </div>
+      <div class="testimonial-card">
+        <p>"From beginner to pro — SAB Learning made it possible. Highly recommended for anyone serious about growth!"</p>
+        <h4>— Meena S., UX Designer</h4>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- cta-banner.html -->
+<section class="cta-banner">
+  <div class="cta-content">
+    <h2>Ready to Start Learning?</h2>
+    <p>Join thousands of learners and boost your career with SAB Learning.</p>
+    <a href="#" class="cta-button">Join Now</a>
+  </div>
+</section>
+<!-- footer.html -->
+<footer class="footer">
+  <div class="footer-content">
+    <p>&copy; 2025 SAB Learning. All rights reserved.</p>
+    <ul class="footer-links">
+      <li><a href="#">Privacy Policy</a></li>
+      <li><a href="#">Terms</a></li>
+      <li><a href="#">Contact</a></li>
+    </ul>
+  </div>
+</footer>
+<!-- technologies.html -->
+<section class="technologies">
+  <div class="tech-container">
+    <h2 class="tech-title">Technologies & Tools (Recommended)</h2>
+    <div class="tech-grid">
+      <div class="tech-item">HTML5</div>
+      <div class="tech-item">CSS3</div>
+      <div class="tech-item">JavaScript</div>
+      <div class="tech-item">Python</div>
+      <div class="tech-item">React</div>
+      <div class="tech-item">Git & GitHub</div>
+      <div class="tech-item">Node.js</div>
+      <div class="tech-item">VS Code</div>
+    </div>
+  </div>
+</section>
+
+
+
+</header>
+/* style.css */
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #121212;
+  color: #fff;
+}
+
+.site-header {
+  background-color: #1e1e1e;
+  padding: 1rem 0;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.nav ul {
+  list-style: none;
+  display: flex;
+  gap: 1.5rem;
+  margin: 0;
+  padding: 0;
+}
+
+.nav a {
+  text-decoration: none;
+  color: #cccccc;
+  transition: color 0.3s;
+}
+
+.nav a:hover {
+  color: #ffffff;
+}
+
+.nav .btn {
+  background-color: #00bcd4;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  color: #121212;
+  font-weight: bold;
+  transition: background-color 0.3s;
+}
+
+.nav .btn:hover {
+  background-color: #0097a7;
+  color: #fff;
+}
+/* hero.css */
+.hero {
+  background-color: #121212;
+  color: #ffffff;
+  padding: 100px 20px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 90vh;
+}
+
+.hero-content {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.hero h1 {
+  font-size: 2.8rem;
+  margin-bottom: 20px;
+  line-height: 1.2;
+}
+
+.hero p {
+  font-size: 1.2rem;
+  color: #cccccc;
+  margin-bottom: 40px;
+}
+
+.hero-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.btn-primary {
+  background-color: #00bcd4;
+  color: #121212;
+  padding: 0.75rem 1.5rem;
+  border-radius: 6px;
+  font-weight: bold;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+.btn-primary:hover {
+  background-color: #0097a7;
+  color: #ffffff;
+}
+
+.btn-secondary {
+  background-color: transparent;
+  border: 2px solid #00bcd4;
+  color: #00bcd4;
+  padding: 0.75rem 1.5rem;
+  border-radius: 6px;
+  font-weight: bold;
+  text-decoration: none;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.btn-secondary:hover {
+  background-color: #00bcd4;
+  color: #121212;
+}
+/* features.css */
+.features-section {
+  background-color: #1a1a1a;
+  color: #ffffff;
+  padding: 80px 20px;
+  text-align: center;
+}
+
+.section-title {
+  font-size: 2.2rem;
+  margin-bottom: 50px;
+  color: #00bcd4;
+}
+
+.features-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 2rem;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.feature-item {
+  background-color: #2a2a2a;
+  padding: 2rem;
+  border-radius: 12px;
+  transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+.feature-item:hover {
+  background-color: #333;
+  transform: translateY(-5px);
+}
+
+.feature-item .icon {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  display: block;
+}
+
+.feature-item h3 {
+  font-size: 1.3rem;
+  margin-bottom: 0.5rem;
+  color: #ffffff;
+}
+
+.feature-item p {
+  color: #cccccc;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+/* how-it-works.css */
+.how-it-works {
+  background-color: #121212;
+  color: #ffffff;
+  padding: 80px 20px;
+  text-align: center;
+}
+
+.section-title {
+  font-size: 2.2rem;
+  color: #00bcd4;
+  margin-bottom: 50px;
+}
+
+.steps {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 2rem;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.step {
+  background-color: #1e1e1e;
+  padding: 2rem;
+  border-radius: 12px;
+  transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+.step:hover {
+  background-color: #2a2a2a;
+  transform: translateY(-5px);
+}
+
+.step .icon {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.step h3 {
+  font-size: 1.3rem;
+  margin-bottom: 0.5rem;
+  color: #ffffff;
+}
+
+.step p {
+  color: #cccccc;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+/* popular-courses.css */
+.popular-courses {
+  background-color: #1a1a1a;
+  color: #ffffff;
+  padding: 80px 20px;
+  text-align: center;
+}
+
+.section-title {
+  font-size: 2.2rem;
+  margin-bottom: 50px;
+  color: #00bcd4;
+}
+
+.courses-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 2rem;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.course-card {
+  background-color: #2a2a2a;
+  padding: 1.5rem;
+  border-radius: 12px;
+  text-align: left;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.course-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0, 188, 212, 0.2);
+}
+
+.course-card img {
+  width: 100%;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+}
+
+.course-card h3 {
+  font-size: 1.25rem;
+  color: #ffffff;
+  margin: 0.5rem 0;
+}
+
+.course-card p {
+  font-size: 0.95rem;
+  color: #bbbbbb;
+  margin: 0.25rem 0;
+}
+
+.badge {
+  display: inline-block;
+  background-color: #00bcd4;
+  color: #121212;
+  padding: 0.25rem 0.6rem;
+  border-radius: 6px;
+  font-size: 0.85rem;
+  font-weight: bold;
+  margin-top: 0.5rem;
+}
+
+.btn-enroll {
+  display: inline-block;
+  margin-top: 1rem;
+  background-color: transparent;
+  border: 2px solid #00bcd4;
+  color: #00bcd4;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: all 0.3s ease;
+}
+
+.btn-enroll:hover {
+  background-color: #00bcd4;
+  color: #121212;
+}
+/* testimonials.css */
+.testimonials {
+  background-color: #121212;
+  color: #ffffff;
+  padding: 80px 20px;
+  text-align: center;
+}
+
+.section-title {
+  font-size: 2.2rem;
+  margin-bottom: 50px;
+  color: #00bcd4;
+}
+
+.testimonial-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 2rem;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.testimonial-card {
+  background-color: #1e1e1e;
+  padding: 2rem;
+  border-radius: 12px;
+  font-style: italic;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.testimonial-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 15px rgba(0, 188, 212, 0.2);
+}
+
+.testimonial-card p {
+  font-size: 1.1rem;
+  color: #dddddd;
+  margin-bottom: 1rem;
+}
+
+.testimonial-card h4 {
+  font-size: 1rem;
+  font-weight: bold;
+  color: #00bcd4;
+  margin: 0;
+}
+/* cta-banner.css */
+.cta-banner {
+  background-color: #1a1a1a;
+  padding: 60px 20px;
+  text-align: center;
+  color: #ffffff;
+  border-top: 2px solid #00bcd4;
+  border-bottom: 2px solid #00bcd4;
+}
+
+.cta-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.cta-banner h2 {
+  font-size: 2rem;
+  margin-bottom: 15px;
+  color: #00bcd4;
+}
+
+.cta-banner p {
+  font-size: 1.1rem;
+  color: #cccccc;
+  margin-bottom: 30px;
+}
+
+.cta-button {
+  display: inline-block;
+  background-color: #00bcd4;
+  color: #121212;
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  font-weight: bold;
+  border-radius: 6px;
+  text-decoration: none;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.cta-button:hover {
+  background-color: #0097a7;
+  color: #ffffff;
+}
+/* Basic Reset and Layout Fix */
+html, body {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #0f0f0f;
+  color: #fff;
+}
+
+/* Push footer to bottom */
+main {
+  flex: 1;
+}
+
+/* Footer Styles */
+.footer {
+  background-color: #1a1a1a;
+  padding: 20px;
+  text-align: center;
+  border-top: 1px solid #333;
+}
+
+.footer-content {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.footer p {
+  margin: 0;
+  color: #ccc;
+  font-size: 0.95rem;
+}
+
+.footer-links {
+  list-style: none;
+  padding: 10px 0 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.footer-links a {
+  color: #00bcd4;
+  text-decoration: none;
+  font-size: 0.95rem;
+}
+
+.footer-links a:hover {
+  text-decoration: underline;
+}
+/* technologies.css */
+.technologies {
+  background-color: #121212;
+  color: #ffffff;
+  padding: 80px 20px;
+  text-align: center;
+}
+
+.tech-container {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.tech-title {
+  font-size: 2rem;
+  margin-bottom: 40px;
+  color: #00bcd4;
+}
+
+.tech-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  gap: 20px;
+  justify-items: center;
+}
+
+.tech-item {
+  background-color: #1f1f1f;
+  padding: 15px 20px;
+  border-radius: 8px;
+  font-size: 1rem;
+  font-weight: bold;
+  color: #ffffff;
+  transition: all 0.3s ease;
+  border: 1px solid #2e2e2e;
+}
+
+.tech-item:hover {
+  background-color: #00bcd4;
+  color: #121212;
+  transform: scale(1.05);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .nav ul {
+    flex-direction: column;
+    background: #1e1e1e;
+    position: absolute;
+    top: 70px;
+    right: 0;
+    width: 200px;
+    display: none;
+  }
+
+  .nav ul.active {
+    display: flex;
+  }
+}
